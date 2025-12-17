@@ -38,7 +38,7 @@ export const portfolioData = {
       title: "Store.Camisas",
       description: "E-commerce completo com carrinho, checkout via WhatsApp, modo escuro e sistema de busca. Desenvolvido com React, Tailwind e Framer Motion.",
       tech: ["React", "TypeScript", "Tailwind", "Framer Motion"],
-      github: "https://github.com/SEU-USUARIO/loja-camisas", // Lembre de criar o repo depois!
+      github: "https://github.com/Doidin22/StorePrototype", // Lembre de criar o repo depois!
       demo: "#", // Aqui você colocará o link do Firebase/Vercel quando hospedar
       image: "/loja-print.png"
     },
